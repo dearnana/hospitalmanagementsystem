@@ -1,0 +1,34 @@
+Recommended PHP version 5.6
+
+
+Admin Login Details
+Email: admin@mail.com
+Password: Password@123
+
+Accountant
+accountant@mail.com
+password123
+
+Doctor
+doctor@mail.com
+password123
+
+Laboratories
+lab@mail.com
+password123
+
+
+Nurse
+nurse@mail.com	
+password123
+
+
+Patient
+patient@mail.com
+password123
+
+Pharmacist
+pharmacist@mail.com	
+password123
+
+
